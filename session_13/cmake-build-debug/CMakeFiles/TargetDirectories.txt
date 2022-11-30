@@ -1,0 +1,3 @@
+C:/Users/Mia/CLionProjects/session_13/cmake-build-debug/CMakeFiles/session_13.dir
+C:/Users/Mia/CLionProjects/session_13/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Mia/CLionProjects/session_13/cmake-build-debug/CMakeFiles/rebuild_cache.dir
